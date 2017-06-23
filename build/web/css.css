@@ -1,0 +1,14 @@
+header{width:1320px;height:200px;background:url(tastyburger2.png);text-align:center;
+                   padding-top:20px;color:yellow;font-size:3em;font-family:Hodo std; }
+            body{background:beige ;}
+            nav{border-top:2px groove yellow;width:1320px;height:60px;background:url(nav.jpg);}
+            #content{width:1320px;height:600px;background:url(bg1.jpg); background-size:cover; 
+                     color: crimson; text-align: center; align-self:center }
+            #content2{display: table; margin: 0 auto; font-weight:bolder}
+            #btn{background-color:blanchedalmond; font-weight:bolder}
+            ul{padding-top:5px;margin:0; text-align: center}
+            footer{text-align:center; color:brown; font-weight:bolder; font-size: x-large}
+            li{display:inline;list-style:none;padding:4px;margin:4px;}
+            alink{color:white;font-size:20px;font-family:Palatino Linotype;text-decoration:none;}
+            a:visited{color:white;font-size:20px;font-family:Palatino Linotype;text-decoration:none;}
+            a:hover{color:blue;text-decoration:underline;}

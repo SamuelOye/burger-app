@@ -1,0 +1,53 @@
+.header-content {
+  position: absolute;
+  top: 150px;
+  width: 100%;
+  margin-top: 5px;
+  padding: 20px;
+}
+.dashboard {
+   position: relative;
+  top: 100px;
+  width: 100%;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 20px;
+}
+
+#burger-div
+{
+  position:relative;
+  top: 150px;
+}
+
+.content-list
+{
+  background-color: white;
+}
+header
+{
+  font-size:72px;
+}
+
+header,h1,h2,h3,h4
+{
+  font-family:Block Berthold Condensed,sans-serif;
+}
+h1.subtitle
+{
+  font-family:'Grand Hotel',cursive;
+}
+
+.section-body
+{
+  background-color: #e3e3e3 !important;
+  padding: 20px 20px 20px 20px;
+}
+
+.form-control-feedback
+{
+  background-color: #ffffff;
+  padding: 0px 50px 75px 50px;
+  border-radius: 5px;
+  /*text-align: center;*/
+}
